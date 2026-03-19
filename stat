@@ -1,0 +1,24 @@
+[2026-03-10 09:03:31] INFO - |      departure_name| count|
+[2026-03-10 09:03:31] INFO - +--------------------+------+
+[2026-03-10 09:03:31] INFO - Done. Returned value was: done
+[2026-03-10 09:03:31] INFO - |         Olarinluoma|  7047|
+[2026-03-10 09:03:31] INFO - |          Marjaniemi|  2882|
+[2026-03-10 09:03:31] INFO - |      Diakoniapuisto|112022|
+[2026-03-10 09:03:31] INFO - |      Eteläesplanadi| 77197|
+[2026-03-10 09:03:31] INFO - Pushing xcom ti=RuntimeTaskInstance(id=UUID('019cd6c3-ffa5-7219-be89-9e3b1f283643'), task_id='upload_spark_data', dag_id='waiting_files', run_id='manual__2026-03-10T08:01:35.109061+00:00', try_number=1, dag_version_id=UUID('019cd6c0-7146-759c-a1bd-8aa56a3dfd96'), map_index=-1, hostname='d12cf3617094', context_carrier={}, task=<Task(_PythonDecoratedOperator): upload_spark_data>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=0, start_date=datetime.datetime(2026, 3, 10, 8, 2, 48, 896853, tzinfo=datetime.timezone.utc), end_date=None, state=<TaskInstanceState.RUNNING: 'running'>, is_mapped=False, rendered_map_index=None)
+[2026-03-10 09:03:31] INFO - |          Länsituuli| 34177|
+[2026-03-10 09:03:31] INFO - |            Kuunkatu| 14031|
+[2026-03-10 09:03:31] INFO - |   Pitäjänmäen asema|  8522|
+[2026-03-10 09:03:31] INFO - |   Vanha Kauppahalli| 31638|
+[2026-03-10 09:03:31] INFO - |         Puotinharju|  6160|
+[2026-03-10 09:03:31] INFO - |     Herttoniemi (M)| 30771|
+[2026-03-10 09:03:31] INFO - |  Viikin tiedepuisto| 21728|
+[2026-03-10 09:03:31] INFO - |Laivalahden puist...| 11519|
+[2026-03-10 09:03:31] INFO - |             Tietäjä|  9411|
+[2026-03-10 09:03:31] INFO - |     Kirkkoherrantie|  4530|
+[2026-03-10 09:03:31] INFO - |       Revontulentie| 13357|
+[2026-03-10 09:03:31] INFO - |      Siltavoudintie|  4438|
+[2026-03-10 09:03:31] INFO - |             Ooppera|132246|
+[2026-03-10 09:03:31] INFO - | Töölönlahden puisto| 73046|
+[2026-03-10 09:03:31] INFO - |            Narinkka|122355|
+[2026-03-10 09:03:31] INFO - |      Gebhardinaukio| 41636

@@ -1,0 +1,5 @@
+{
+  "BatchId": {"S": "current_batch"},
+  "raw_received": {"BOOL": false},
+  "spark_received": {"BOOL": false}
+}

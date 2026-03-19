@@ -1,0 +1,9 @@
+{
+  "LambdaFunctionConfigurations": [
+    {
+      "Id": "TriggerLambdaOnUpload",
+      "LambdaFunctionArn": "arn:aws:lambda:us-east-1:000000000000:function:my-first-lambda",
+      "Events": ["s3:ObjectCreated:*"]
+    }
+  ]
+}
